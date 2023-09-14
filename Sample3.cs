@@ -14,5 +14,10 @@
           else
           Console.WriteLine("");
         */
+        
+        Console.WriteLine("Enter your name: ");
+        PersonName=Console.ReadLine();
+        //laevi code
+
     }
 }
