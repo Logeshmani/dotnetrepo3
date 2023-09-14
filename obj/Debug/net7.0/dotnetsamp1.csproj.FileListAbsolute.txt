@@ -1,0 +1,15 @@
+D:\REMOTEASSESSMENT\dotnetrepo3\bin\Debug\net7.0\dotnetsamp1.exe
+D:\REMOTEASSESSMENT\dotnetrepo3\bin\Debug\net7.0\dotnetsamp1.deps.json
+D:\REMOTEASSESSMENT\dotnetrepo3\bin\Debug\net7.0\dotnetsamp1.runtimeconfig.json
+D:\REMOTEASSESSMENT\dotnetrepo3\bin\Debug\net7.0\dotnetsamp1.dll
+D:\REMOTEASSESSMENT\dotnetrepo3\bin\Debug\net7.0\dotnetsamp1.pdb
+D:\REMOTEASSESSMENT\dotnetrepo3\obj\Debug\net7.0\dotnetsamp1.csproj.AssemblyReference.cache
+D:\REMOTEASSESSMENT\dotnetrepo3\obj\Debug\net7.0\dotnetsamp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\REMOTEASSESSMENT\dotnetrepo3\obj\Debug\net7.0\dotnetsamp1.AssemblyInfoInputs.cache
+D:\REMOTEASSESSMENT\dotnetrepo3\obj\Debug\net7.0\dotnetsamp1.AssemblyInfo.cs
+D:\REMOTEASSESSMENT\dotnetrepo3\obj\Debug\net7.0\dotnetsamp1.csproj.CoreCompileInputs.cache
+D:\REMOTEASSESSMENT\dotnetrepo3\obj\Debug\net7.0\dotnetsamp1.dll
+D:\REMOTEASSESSMENT\dotnetrepo3\obj\Debug\net7.0\refint\dotnetsamp1.dll
+D:\REMOTEASSESSMENT\dotnetrepo3\obj\Debug\net7.0\dotnetsamp1.pdb
+D:\REMOTEASSESSMENT\dotnetrepo3\obj\Debug\net7.0\dotnetsamp1.genruntimeconfig.cache
+D:\REMOTEASSESSMENT\dotnetrepo3\obj\Debug\net7.0\ref\dotnetsamp1.dll
