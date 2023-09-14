@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\logeshwaran.mani\\.nuget\\packages\\": {}
+    "C:\\Users\\mano.selvaraj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Relevantz\\dotnetsamp1\\dotnetsamp1.csproj",
+      "projectUniqueName": "d:\\REMOTEASSESSMENT\\dotnetrepo3\\dotnetsamp1.csproj",
       "projectName": "dotnetsamp1",
-      "projectPath": "D:\\Relevantz\\dotnetsamp1\\dotnetsamp1.csproj",
-      "packagesPath": "C:\\Users\\logeshwaran.mani\\.nuget\\packages\\",
-      "outputPath": "D:\\Relevantz\\dotnetsamp1\\obj\\",
+      "projectPath": "d:\\REMOTEASSESSMENT\\dotnetrepo3\\dotnetsamp1.csproj",
+      "packagesPath": "C:\\Users\\mano.selvaraj\\.nuget\\packages\\",
+      "outputPath": "d:\\REMOTEASSESSMENT\\dotnetrepo3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\logeshwaran.mani\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mano.selvaraj\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

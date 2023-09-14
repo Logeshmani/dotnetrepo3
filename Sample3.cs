@@ -22,5 +22,11 @@
         age=Convert.ToInt32(Console.ReadLine());
         //Nithya
 
+        //checking the eligible for getting Driving License or not (18 or above)
+        if(age>18){
+          //Checking above 18
+          Console.WriteLine(PersonName+" is eligible for applying the driving licences");
+        }
+
     }
 }
