@@ -18,6 +18,9 @@
         Console.WriteLine("Enter your name: ");
         PersonName=Console.ReadLine();
         //laevi code
+        Console.WriteLine("Enter the Age : ");
+        age=Convert.ToInt32(Console.ReadLine());
+        //Nithya
 
     }
 }
