@@ -27,6 +27,10 @@
           //Checking above 18
           Console.WriteLine(PersonName+" is eligible for applying the driving licences");
         }
+        else
+        {
+          Console.WriteLine(PersonName+"is not eligible");
+        }
 
     }
 }
